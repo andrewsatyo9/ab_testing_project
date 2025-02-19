@@ -34,10 +34,10 @@ By analyzing user behavior and applying statistical methods, we aim to determine
 
 ---
 
-## 📊 Visualization
-Below is a **bar chart comparing conversion rates** between the two groups:
+## 📊 Visualization  
+Below is a visualization of the conversion rate comparison:  
 
-![Conversion Rate Comparison](ab_testing_project/conversion_rate_comparison.png)
+![Conversion Rate Comparison](conversion_rate_comparison.png)
 
 ---
 
@@ -55,6 +55,7 @@ cd ab_testing_project
 - Extend analysis with funnel conversion tracking.
 
 ---
+
 *Author: Andrew Jaya Satyo*  
 *LinkedIn: linkedin.com/in/andrew-jaya-satyo-1501992b4*  
 *Email: andrewjaya12345@gmail.com*  
