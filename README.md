@@ -37,7 +37,7 @@ By analyzing user behavior and applying statistical methods, we aim to determine
 ## 📊 Visualization
 Below is a **bar chart comparing conversion rates** between the two groups:
 
-![Conversion Rate Comparison](results/conversion_rate_comparison.png)
+![Conversion Rate Comparison](ab_testing_project/conversion_rate_comparison.png)
 
 ---
 
