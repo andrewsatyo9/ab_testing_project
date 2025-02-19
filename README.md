@@ -48,6 +48,7 @@ Follow these steps to reproduce the analysis on your local machine.
 ```bash
 git clone https://github.com/andrewsatyo9/ab_testing_project.git
 cd ab_testing_project
+```
 
 ## 🚀 Future Improvements
 - Perform multi-variant testing for different ad formats.
